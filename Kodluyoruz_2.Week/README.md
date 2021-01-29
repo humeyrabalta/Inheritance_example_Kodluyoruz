@@ -1,7 +1,5 @@
 **Kodluyoruz Ikinci Hafta**
 
-odev-hafta-2
-
 Bir cep telefonu fabrikasına sahip olduğumuzu düşünelim. Bu cep telefonu fabrikasında aşağıdaki markalarda cep telefonu üretiyoruz.
 
 1- Apple 2- Samsung
